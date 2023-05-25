@@ -1,4 +1,4 @@
-# IoT Hub - Send of telemetry as a device (synchronously)
+# IoT Hub - Send telemetry as a device (synchronously)
 This example shows how to send telemetry as a device to an IoT Hub using the azure-iot-device SDK for Python. 
 
 ## Pre-requisites 
